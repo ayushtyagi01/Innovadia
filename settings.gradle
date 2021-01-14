@@ -1,0 +1,2 @@
+rootProject.name='innovadia'
+include ':app'

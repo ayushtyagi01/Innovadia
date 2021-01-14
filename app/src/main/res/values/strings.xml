@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Innovadia</string>
+    <string name="text_view"><u>Text View</u></string>
+    <string name="about_us"><u>About Us</u></string>
+    <array name="colors">
+        <item>#CA20E8F3</item>
+    </array>
+</resources>
